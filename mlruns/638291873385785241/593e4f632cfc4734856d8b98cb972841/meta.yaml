@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olana/Desktop/D/KAIM%203/Week%208%20%26%209/fraud-detection-adey-innovations/mlruns/638291873385785241/593e4f632cfc4734856d8b98cb972841/artifacts
+end_time: 1739905953562
+entry_point_name: ''
+experiment_id: '638291873385785241'
+lifecycle_stage: active
+run_id: 593e4f632cfc4734856d8b98cb972841
+run_name: Gradient Boosting
+run_uuid: 593e4f632cfc4734856d8b98cb972841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739905733327
+status: 4
+tags: []
+user_id: olana
