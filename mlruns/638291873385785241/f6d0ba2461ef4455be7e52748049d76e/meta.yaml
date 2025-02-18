@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olana/Desktop/D/KAIM%203/Week%208%20%26%209/fraud-detection-adey-innovations/mlruns/638291873385785241/f6d0ba2461ef4455be7e52748049d76e/artifacts
+end_time: 1739905493784
+entry_point_name: ''
+experiment_id: '638291873385785241'
+lifecycle_stage: active
+run_id: f6d0ba2461ef4455be7e52748049d76e
+run_name: Logistic Regression
+run_uuid: f6d0ba2461ef4455be7e52748049d76e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739905447940
+status: 3
+tags: []
+user_id: olana
