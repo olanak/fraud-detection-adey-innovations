@@ -1,4 +1,3 @@
-```markdown
 # Fraud Detection System
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/fraud-detection)
